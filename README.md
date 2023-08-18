@@ -44,8 +44,9 @@ In order for the end-to-end system to run correctly, a **Python version of 3.10 
 The following libraries are required to run the end-to-end system:
 - numpy, keras, tensorflow, matplotlib, opencv-python, scikit-learn
 
-Classification models are required for the program to run, tthese are available to download at the following link: [Models](https://drive.google.com/drive/folders/1pBxND8jQNw32ySYwk9Q0NtPctUS66t9u?usp=sharing)
-This folder needs to be included in the "Dependencies" folder.
+Classification models are also required, these are available to download at the following link: [Models](https://drive.google.com/drive/folders/1pBxND8jQNw32ySYwk9Q0NtPctUS66t9u?usp=sharing)
+
+This folder needs to be included under the "Dependencies" directory.
 
 It is highly recommended to use a virtual environment to avoid any conflicts with other projects, the following [anaconda](https://www.anaconda.com/products/distribution) enviroment
 is recommended to be instantiated: ` conda create -n malaria python=3.10 `.
