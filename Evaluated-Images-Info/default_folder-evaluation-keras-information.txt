@@ -1,0 +1,7 @@
+Folder name: Default UCL-test dataset
+Model used: Sequential Model
+Segmentation and evaluation took: 55.185773611068726 seconds
+Number of infected cells: 110
+Number of uninfected cells: 1138
+Number of unknown cells: 1
+Percentage of infected cells in the folder: 8.744038155802862%

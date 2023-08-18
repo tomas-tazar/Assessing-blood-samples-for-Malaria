@@ -1,0 +1,7 @@
+Folder name: Dependencies/path_to_images_small
+Model used: Sequential Model
+Segmentation and evaluation took: 23.52638292312622 seconds
+Number of infected cells: 70
+Number of uninfected cells: 406
+Number of unknown cells: 2
+Percentage of infected cells in the folder: 14.553014553014554%

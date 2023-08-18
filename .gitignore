@@ -1,0 +1,5 @@
+malaria/
+.tmp
+.vscode/
+__pycache__/
+model_information/

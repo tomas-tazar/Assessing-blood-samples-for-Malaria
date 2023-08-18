@@ -1,0 +1,7 @@
+Folder name: Dependencies/path_to_images_small
+Model used: VGG16
+Segmentation and evaluation took: 64.2266297340393 seconds
+Number of infected cells: 117
+Number of uninfected cells: 364
+Number of unknown cells: 0
+Percentage of infected cells in the folder: 24.324324324324326%

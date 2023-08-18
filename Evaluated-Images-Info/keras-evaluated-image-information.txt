@@ -1,0 +1,7 @@
+Image name: Dependencies/test_image.jpg
+Model used: Sequential Model
+Segmentation and evaluation took: 5.014633417129517 seconds
+Number of infected cells: 5
+Number of uninfected cells: 93
+Number of unknown cells: 0
+Percentage of infected cells in the image: 5.05050505050505%
