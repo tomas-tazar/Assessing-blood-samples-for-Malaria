@@ -1,8 +1,8 @@
 # Assessing blood samples for malaria
 
 <p align="center">
-  <img src="https://cseegit.essex.ac.uk/22-23-ce301/22-23_CE301_tazar_tomas/-/raw/master/Documentation/Open%20Day%20Presentation%20Images/readmepipeline.png" width="450" /> 
-  <img src="https://cseegit.essex.ac.uk/22-23-ce301/22-23_CE301_tazar_tomas/-/raw/master/Documentation/Open%20Day%20Presentation%20Images/readmeimg.jpg" width="400" />
+  <img src="https://github.com/tomas-tazar/Assessing-blood-samples-for-Malaria/blob/main/Documentation/Open%20Day%20Presentation%20Images/readmepipeline.png" width="450" /> 
+  <img src="https://github.com/tomas-tazar/Assessing-blood-samples-for-Malaria/blob/main/Documentation/Open%20Day%20Presentation%20Images/readmeimg.jpg" width="400" />
 </p>
 
 ## Introduction
@@ -43,6 +43,9 @@ In order for the end-to-end system to run correctly, a **Python version of 3.10 
 
 The following libraries are required to run the end-to-end system:
 - numpy, keras, tensorflow, matplotlib, opencv-python, scikit-learn
+
+Classification models are required for the program to run, tthese are available to download at the following link: [Models](https://drive.google.com/drive/folders/1pBxND8jQNw32ySYwk9Q0NtPctUS66t9u?usp=sharing)
+This folder needs to be included in the "Dependencies" folder.
 
 It is highly recommended to use a virtual environment to avoid any conflicts with other projects, the following [anaconda](https://www.anaconda.com/products/distribution) enviroment
 is recommended to be instantiated: ` conda create -n malaria python=3.10 `.
